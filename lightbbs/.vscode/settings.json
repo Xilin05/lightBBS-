@@ -1,0 +1,13 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#253115",
+    "titleBar.activeBackground": "#34451E",
+    "titleBar.activeForeground": "#F9FBF6"
+  },
+  "php.suggest.basic": false,
+    "php.executablePath": "G:/web/php/php.exe",
+    "phpcs.standard": "psr2",
+    "phpcs.ignorePatterns": ["database", "thinkphp", "runtime", "public", "vendor"],
+    "files.eol": "\n"
+
+}
